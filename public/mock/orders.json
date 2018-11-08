@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "shop": "院落创意菜",
+    "picture": "//p0.meituan.net/deal/e6864ed9ce87966af11d922d5ef7350532676.jpg.webp@180w_180h_1e_1c_1l_80q|watermark=0",
+    "product": "百香果（冷饮）1扎",
+    "price": 19.9,
+    "ifCommented": true
+  },
+  {
+    "id": 2,
+    "shop": "正一味",
+    "picture": "//p0.meituan.net/deal/4d32b2d9704fda15aeb5b4dc1d4852e2328759.jpg.webp@180w_180h_1e_1c_1l_80q|watermark=0",
+    "product": "肥牛石锅拌饭+鸡蛋羹1份",
+    "price": 29,
+    "ifCommented": false
+  },
+  {
+    "id": 3,
+    "shop": "Salud冻酸奶",
+    "picture": "//p0.meituan.net/deal/b7935e03809c771e42dfa20784ca6e5228827.jpg.webp@180w_180h_1e_1c_1l_80q|watermark=0",
+    "product": "冻酸奶（小杯）1杯",
+    "price": 20,
+    "ifCommented": false
+  },
+  {
+    "id": 4,
+    "shop": "吉野家",
+    "picture": "//p0.meituan.net/deal/63a28065fa6f3a7e88271d474e1a721d32912.jpg@428w_320h_1e_1c",
+    "product": "吉汁烧鱼+中杯汽水/紫菜蛋花汤1份",
+    "price": 14,
+    "ifCommented": false
+  },
+  {
+    "id": 5,
+    "shop": "吉汁弁当",
+    "picture": "//gss0.baidu.com/-4o3dSag_xI4khGko9WTAnF6hhy/bainuo/crop%3D0%2C21%2C690%2C418%3Bw%3D470%3Bq%3D79/sign=7a77a9982d2dd42a4b465beb3e0b7787/00e93901213fb80ed6b19d263ed12f2eb83894db.jpg",
+    "product": "吉汁弁当咖喱牛肉饭1份",
+    "price": 16.9,
+    "ifCommented": false
+  }
+]
